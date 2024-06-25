@@ -9,3 +9,5 @@ Name the book and the plan to go through the exercises
 git remote add origin git@github.com:theghia/name-of-repo.git
 git branch -M main
 git push -u origin main
+
+todo: Add some githooks to push to origin for a post commit
